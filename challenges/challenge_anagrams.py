@@ -33,5 +33,12 @@ def merge(left, right, merged):
         merged[merged_index] = right[right_index]
         merged_index += 1
 
+
 def is_anagram(first_string, second_string):
-    """ Faça o código aqui. """
+    split_first = list(first_string.upper())
+    split_second = list(second_string.upper())
+
+    merge_sort(split_first)
+    merge_sort(split_second)
+
+    return split_first == split_second
