@@ -4,7 +4,7 @@
 
 **Contexto**
 
-Ao longo do bloco desse projeto, estudamos temas, como complexidade de algorítmos, recursividade e algorítmos de ordenação. Aprendemos noções básicas
+Ao longo do bloco desse projeto, estudamos temas como complexidade de algorítmos, recursividade e algorítmos de ordenação. Aprendemos noções básicas
 para identificar (principalmente, através de estruturas de repetição) se um algorítmo apresenta complexidade constante, linear, quadrática, exponencial ou fatorial, e como otimizar algorítmos de alto custo computacional. Além disso, conhecemos diversos algorítmos de ordenação e busca, com seus respectivos melhores casos, piores casos e casos médios.
 
 **Objetivo do projeto**
