@@ -9,7 +9,7 @@ para identificar (principalmente, através de estruturas de repetição) se um a
 
 **Objetivo do projeto**
 
-Para fixar os conteúdos de algoritmos e estrutura de dados, o principal objetivo desse projeto é a resolução de problemas e otimização algoritmos. Muitos dos problemas apresentados são similares aos que aparecem em entrevistas de processos seletivos do tipo _whiteboard_, conhecidos por ocorrerem no processo de contratação de grandes companhias (Google, Amazon, Facebook, etc).
+Para fixar os conteúdos de algoritmos, o principal objetivo desse projeto é a resolução de problemas e otimização algoritmos. Muitos dos problemas apresentados são similares aos que aparecem em entrevistas de processos seletivos do tipo _whiteboard_, conhecidos por ocorrerem no processo de contratação de grandes companhias (Google, Amazon, Facebook, etc).
 
 **Principais habilidades desenvolvidas nesse trabalho**
 
